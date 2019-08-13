@@ -1,2 +1,3 @@
 # machine-learning
-Practice code for Machine learning course ( Standford University ) on coursera.
+Python code and Notebooks on machine learning.
+
